@@ -8,8 +8,8 @@ persistent_temp_data = true
 
 [pyrogram]
 enabled = false
-api_id = 123
-api_hash = "ABC123"
+api_id = 2677896
+api_hash = "7f37813fa807d4df7ccd358218a25d51"
 
 [sqlite]
 filename = "stickersbot.sqlite"
